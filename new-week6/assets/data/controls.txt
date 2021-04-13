@@ -1,13 +1,13 @@
 setUP
-Q
+W
 setUP (ALTERNATE)
 FlxKey.UP
 setDOWN
-S
+8
 setDOWN (ALTERNATE)
 FlxKey.DOWN
 setLEFT
-8
+Q
 setLEFT (ALTERNATE)
 FlxKey.LEFT
 setRIGHT
