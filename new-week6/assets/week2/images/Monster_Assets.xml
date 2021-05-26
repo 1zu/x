@@ -1,9 +1,8 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+
 <TextureAtlas imagePath="Monster_Assets.png">
-	<!-- Created with Adobe Animate version 20.0.0.17400 -->
-	<!-- http://www.adobe.com/products/animate.html -->
-	
-	<SubTexture name="RuvDown0000" x="0" y="0" width="633" height="820"/>
+
+
+<SubTexture name="RuvDown0000" x="0" y="0" width="633" height="820"/>
 <SubTexture name="RuvDown0001" x="633" y="0" width="633" height="820"/>
 <SubTexture name="RuvDown0002" x="633" y="0" width="633" height="820"/>
 <SubTexture name="RuvDown0003" x="1266" y="0" width="633" height="820"/>
